@@ -1,0 +1,12 @@
+h1{
+    background-color: antiquewhite;
+}
+
+#button{
+    /* color: #ffff; */
+    border-radius: 20;
+}
+
+.done{
+    text-decoration: line-through;
+}
